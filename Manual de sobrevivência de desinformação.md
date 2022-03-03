@@ -1,4 +1,4 @@
-# Manual de sobrevivência de desinformação
+# Como sobreviver à desinformação
 
 A invasão russa à Ucrânia acentuou ainda mais o problema de desinformação. Navegar neste mar pérfido não é só complicado, é uma tarefa hercúlea! É necessário um esforço constante de verificação para evitar cair nestas "armadilhas" e partilhá-las, e um espírito crítico inabalável. O esforço, no entanto, compensa, porque no final prevalece a verdade.
 
