@@ -5,7 +5,7 @@
 	- Desconfia de tudo o que vês e lês, até deste texto. Isto é essencial! Perder o espírito crítico é o primeiro passo para ser vítima de desinformação e um difusor dela.
 	-
 	- Confirma o teu _bias_
-		- Ver uma informação chocante pode mexer connosco, principalmente se encaixar na nossa visão do mundo, e fazer com que a partilhemos sem lhe aplicar espírito crítico. Se não acreditas em mim, talvez acredites numa antiga analista da CIA, que afirma precisamente isto num [artigo](https://eu.usatoday.com/story/opinion/2020/07/29/cia-tips-fake-news-check-bias-ask-questions-do-research-column/5518879002/) para o USA Today em 2020.
+		- Ver uma informação chocante pode mexer connosco, principalmente se encaixar na nossa visão do mundo, e fazer com que a partilhemos sem lhe aplicar espírito crítico. Se não acreditas em mim, talvez acredites numa antiga analista da CIA, que afirma precisamente isto num [artigo](https://eu.usatoday.com/story/opinion/2020/07/29/cia-tips-fake-news-check-bias-ask-questions-do-research-column/5518879002/) para o USA Today publicado em 2020.
 	-
 	- Se vires uma imagem a ser partilhada _ad-nauseum_ num determinado contexto, confirma se o contexto em que é inserida é o real. Podes usar ferramentas como o [TinyEye](https://tineye.com/) ou o [Google Image Search](https://images.google.com/)
 		- Exemplo: a imagem dos miúdos a saudar os soldados ucranianos circula online desde, pelo menos, 2016
