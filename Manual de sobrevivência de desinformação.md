@@ -46,4 +46,4 @@ Não utilizes apenas o *fact-checking* feito pelos outros, até porque ninguém 
 
 Não tomes a informação dos media como 100% verdadeira e confirmada. Os media, com o ímpeto de serem os primeiros a publicar determinada informação, por vezes esquecem-se de a confirmar. Passar nos noticiários não torna a informação necessariamente verdade. Confirma sempre!
 
-TL;DR: confirma sempre tudo. Esta necessidade de confirmação é tão importante como oxigénio para respirar, se o teu objetivo é não ser influenciado por desinformação e não ajudar a disseminá-la.
+TL;DR: confirma sempre tudo. Esta necessidade de confirmação é tão importante como oxigénio para respirar, se os teus objetivos são não ser influenciado por desinformação e não ajudar a disseminá-la.
