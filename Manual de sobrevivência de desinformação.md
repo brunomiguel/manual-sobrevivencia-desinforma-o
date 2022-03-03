@@ -17,6 +17,7 @@
 	-
 	- Lê mais que os _leads_ das notícias
 		- Ler apenas os _leads_ pode ser tentador, até porque não exige esforço, mas não é incomum eles revelarem pouca informação ou até distorcerem o conteúdo que precedem
+		- O The New Yorker publicou um [artigo](https://www.newyorker.com/science/maria-konnikova/headlines-change-way-think/amp) sobre isto em 2014
 	-
 	- Confirma se os autores dos artigos realmente existem
 		- Pode parecer pateta, mas é fácil criar um suposto site noticioso e usá-lo para propaganda. A Wikipédia até tem [uma lista com alguns destes sites](https://en.wikipedia.org/wiki/List_of_fake_news_websites). Confirma sempre! Toma também atenção ao endereço, porque pode conter um caracter diferente do endereço original e isto é o suficiente para enganar os mais distraídos.
