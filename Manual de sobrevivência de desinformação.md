@@ -12,7 +12,7 @@
 		  https://www.indiatoday.in/fact-check/story/fact-check-old-image-ukrainian-children-sending-off-army-ukraine-russia-war-1918505-2022-02-27
 	-
 	- Se parece bom demais para ser verdade, provavelmente não é verdade.
-		- Lembras-te da história do _Fantasma de Kyiv_? Não há confirmação de que realmente exista e tudo parece indicar, para já, que se trata de um boato. Já se soube entretanto que um dos vídeos amplamente partilhados sobre o _Fantasma de Kyiv_ é do jogo _Digital Combat Simulator World_, como reporta o [DW](https://www.dw.com/en/fact-check-ukraines-ghost-of-kyiv-fighter-pilot/a-60951825).
+		- Lembras-te da história do _Fantasma de Kyiv_? Não há confirmação de que realmente exista e tudo parece indicar, para já, que se trata de um boato. Já se soube entretanto que um dos vídeos amplamente partilhados sobre alegado piloto ucraniano é do jogo _Digital Combat Simulator World_, como reporta o [DW](https://www.dw.com/en/fact-check-ukraines-ghost-of-kyiv-fighter-pilot/a-60951825).
 		- A Wikipédia tem uma [página dedicada](https://en.wikipedia.org/wiki/Ghost_of_Kyiv) a este rumor.
 	-
 	- Lê mais que os _leads_ das notícias
