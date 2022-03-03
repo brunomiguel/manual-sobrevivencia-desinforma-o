@@ -1,0 +1,35 @@
+- A invasão Russa à Ucrânia acentuou ainda mais o problema de desinformação. Navegar neste mar pérfido não é só complicado, é uma tarefa herculeana!
+-
+- ## Como detetar desinformação
+	-
+	- Desconfia de tudo o que vês e lês, até deste texto. Isto é essencial! Perder o espírito crítico é o primeiro passo para ser vítima de desinformação.
+	-
+	- Confirma o teu _bias_
+		- Ver uma informação chocante pode mexer connosco, principalmente se encaixar na nossa visão do mundo, e fazer com que a partilhemos sem lhe aplicar espírito crítico. Se não acreditas em mim, talvez acredites numa antiga analista da CIA, que afirma precisamente isto num [artigo](https://eu.usatoday.com/story/opinion/2020/07/29/cia-tips-fake-news-check-bias-ask-questions-do-research-column/5518879002/) para o USA Today em 2020.
+	-
+	- Se vires uma imagem a ser partilhada _ad-nauseum_ num determinado contexto, confirma se o contexto em que é inserida é o real. Podes usar ferramentas como o [TinyEye](https://tineye.com/) ou o [Google Image Search](https://images.google.com/)
+		- Exemplo: a imagem dos miúdos a saudar os soldados ucranianos circula online desde, pelo menos, 2016
+		  https://www.indiatoday.in/fact-check/story/fact-check-old-image-ukrainian-children-sending-off-army-ukraine-russia-war-1918505-2022-02-27
+	-
+	- Se parece bom demais para ser verdade, provavelmente não é verdade.
+		- Lembras-te da história do _Fantasma de Kyiv_? Não há confirmação de que realmente exista e tudo parece indicar, para já, que se trata de um boato. Já se soube entretanto que um dos vídeos amplamente partilhados sobre o _Fantasma de Kyiv_ é do jogo _Digital Combat Simulator World_, como reporta o [DW](https://www.dw.com/en/fact-check-ukraines-ghost-of-kyiv-fighter-pilot/a-60951825).
+		- A Wikipédia tem uma [página dedicada](https://en.wikipedia.org/wiki/Ghost_of_Kyiv) a este rumor.
+	-
+	- Lê mais que os _leads_ das notícias
+		- Ler apenas os _leads_ pode ser tentador, até porque não exige esforço, mas não é incomum eles revelarem pouca informação ou até distorcerem o conteúdo que precedem
+	-
+	- Confirma se os autores dos artigos realmente existem
+		- Pode parecer pateta, mas é fácil criar um suposto site noticioso e usá-lo para propaganda. A Wikipédia até tem [uma lista com alguns destes sites](https://en.wikipedia.org/wiki/List_of_fake_news_websites). Confirma sempre! Toma também atenção ao endereço, porque pode conter um caracter diferente do endereço original e isto é o suficiente para enganar os mais distraídos.
+	-
+	- Valida com fact-checking
+		- O [Luís Galrão](https://twitter.com/LGalrao/), por exemplo, faz um trabalho fantástico de fact-checking no Twitter.
+		- A [VOST Portugal](https://twitter.com/VOSTPT/) tem partilhado várias dicas no Twitter sobre como combater desinformação
+		- A [Sandra Carvalho](https://twitter.com/Khlopomanstvo) está próxima do terreno e a desinformação não lhe é, de todo, estranha. Mais uma conta que podes seguir se queres confirmar que a informação que andas a ver é verdadeira ou não
+		- Utiliza métodos de OSINT para validar a informação.
+			- OSINT é Open-Source Intelligence e consiste, muito sucintamente, em utilizar e analizar informação disponível publicamente. A Wikipédia tem uma [explicação mais detalhada](https://pt.wikipedia.org/wiki/OSINT) do conceito
+		- Não te esqueças que eles não são imunes à partilha de desinformação. Confirma sempre!
+	-
+	- Não tomes a informação dos media como 100% verdadeira e confirmada
+		- Os media, com o ímpeto de serem os primeiros a publicar determinada informação, por vezes esquecem-se de a confirmar. Passar nos noticiários não torna a informação necessariamente verdade. Confirma sempre!
+-
+- [[Posts]] #investigação
