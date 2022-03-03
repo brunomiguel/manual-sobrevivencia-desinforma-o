@@ -1,8 +1,8 @@
-- A invasão Russa à Ucrânia acentuou ainda mais o problema de desinformação. Navegar neste mar pérfido não é só complicado, é uma tarefa herculeana!
+- A invasão russa à Ucrânia acentuou ainda mais o problema de desinformação. Navegar neste mar pérfido não é só complicado, é uma tarefa hercúlea! É necessário um esforço constante de verificação para evitar cair nestas "armadilhas" e partilhá-las, e um espírito crítico inabalável. O esforço, no entanto, compensa, porque no final prevalece a verdade.
 -
 - ## Como detetar desinformação
 	-
-	- Desconfia de tudo o que vês e lês, até deste texto. Isto é essencial! Perder o espírito crítico é o primeiro passo para ser vítima de desinformação.
+	- Desconfia de tudo o que vês e lês, até deste texto. Isto é essencial! Perder o espírito crítico é o primeiro passo para ser vítima de desinformação e um difusor dela.
 	-
 	- Confirma o teu _bias_
 		- Ver uma informação chocante pode mexer connosco, principalmente se encaixar na nossa visão do mundo, e fazer com que a partilhemos sem lhe aplicar espírito crítico. Se não acreditas em mim, talvez acredites numa antiga analista da CIA, que afirma precisamente isto num [artigo](https://eu.usatoday.com/story/opinion/2020/07/29/cia-tips-fake-news-check-bias-ask-questions-do-research-column/5518879002/) para o USA Today em 2020.
