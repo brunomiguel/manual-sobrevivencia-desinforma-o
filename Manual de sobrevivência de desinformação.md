@@ -24,7 +24,6 @@
 	- Valida com fact-checking
 		- O [Luís Galrão](https://twitter.com/LGalrao/), por exemplo, faz um trabalho fantástico de fact-checking no Twitter.
 		- A [VOST Portugal](https://twitter.com/VOSTPT/) tem partilhado várias dicas no Twitter sobre como combater desinformação
-		- A [Sandra Carvalho](https://twitter.com/Khlopomanstvo) está próxima do terreno e a desinformação não lhe é, de todo, estranha. Mais uma conta que podes seguir se queres confirmar que a informação que andas a ver é verdadeira ou não
 		- Utiliza métodos de OSINT para validar a informação.
 			- OSINT é Open-Source Intelligence e consiste, muito sucintamente, em utilizar e analizar informação disponível publicamente. A Wikipédia tem uma [explicação mais detalhada](https://pt.wikipedia.org/wiki/OSINT) do conceito
 		- Não te esqueças que eles não são imunes à partilha de desinformação. Confirma sempre!
