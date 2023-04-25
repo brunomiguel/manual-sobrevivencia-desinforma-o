@@ -6,7 +6,7 @@ Para que o consigas fazer, deixo-te algumas dicas para te ajudar a confirmar tod
 
 ## Oito dicas para te ajudar a detetar desinformação
 
-#### Dica #1
+#### Dica 1
 
 O primeiro passo é desconfiares de tudo o que vês e lês, até deste texto. Isto é essencial! Perder o espírito crítico é o primeiro passo para ser vítima de desinformação e um difusor dela.
 
